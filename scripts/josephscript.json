@@ -1,0 +1,439 @@
+[
+  {
+    "Initial Sentence": "Hello! I'm Joseph at IT Support, how can I help?"
+  },
+  {
+  "apple": {
+    "apple": {
+      "0": "For problems relating to Apple products, you should check https://support.apple.com/"
+      },
+    "* apple": {
+      "0": "For problems relating to Apple products, you should check https://support.apple.com/"
+      },
+    "apple *": {
+      "0": "For problems relating to Apple products, you should check https://support.apple.com/"
+      },
+    "* apple *": {
+      "0": "For problems relating to Apple products, you should check https://support.apple.com/"
+      }
+  },
+  "samsung": {
+    "samsung": {
+       "0": "For problems relating to Samsung products, you should check https://support.Samsung.com/"
+       },
+     "* samsung": {
+       "0": "For problems relating to Samsung products, you should check https://support.Samsung.com/"
+       },
+      "samsung *": {
+        "0": "For problems relating to Samsung products, you should check https://support.Samsung.com/"
+        },
+      "* samsung *": {
+        "0": "For problems relating to Samsung products, you should check https://support.Samsung.com/"
+      }
+    },
+    "microsoft": {
+      "microsoft": {
+        "0": "For problems relating to microsoft products, you should check https://support.microsoft.com/"
+      },
+      "* microsoft": {
+        "0": "For problems relating to microsoft products, you should check https://support.microsoft.com/"
+      },
+      "microsoft *": {
+        "0": "For problems relating to microsoft products, you should check https://support.microsoft.com/"
+      },
+      "* microsoft *": {
+        "0": "For problems relating to microsoft products, you should check https://support.microsoft.com/"
+      }
+    },
+    "hp": {
+      "hp": {
+        "0": "For problems relating to HP products, you should check https://support.HP.com/"
+      },
+      "* hp": {
+        "0": "For problems relating to HP products, you should check https://support.HP.com/"
+      },
+      "hp *": {
+        "0": "For problems relating to HP products, you should check https://support.HP.com/"
+      },
+      "* hp *": {
+        "0": "For problems relating to HP products, you should check https://support.HP.com/"
+      }
+    },
+    "dell": {
+      "dell": {
+        "0": "For problems relating to Dell products, you should check https://support.Dell.com/"
+      },
+      "* dell": {
+        "0": "For problems relating to Dell products, you should check https://support.Dell.com/"
+      },
+      "dell *": {
+        "0": "For problems relating to Dell products, you should check https://support.Dell.com/"
+      },
+      "* dell *": {
+        "0": "For problems relating to Dell products, you should check https://support.Dell.com/"
+      }
+    },
+    "wifi": {
+      "* wifi *": {
+        "0": "Your problem with wifi could be an issue with your router or another device",
+        "1": "Please try to turn off your router for a few seconds",
+        "2": "Does your device succesfully connect to other wifi networks"
+      },
+      "* wifi": {
+        "0": "Your problem with wifi could be an issue with your router or another device",
+        "1": "Please try to turn off your router for a few seconds",
+        "2": "Does your device succesfully connect to other wifi networks"
+      },
+      "wifi *": {
+        "0": "Your problem with wifi could be an issue with your router or another device",
+        "1": "Please try to turn off your router for a few seconds",
+        "2": "Does your device succesfully connect to other wifi networks"
+      }
+    },
+      "monitor": {
+        "* monitor *": {
+          "0": "Is your monitor turned on at the wall?",
+          "1": "Is your monitor plugged in to the correct port on your computer",
+          "2": "Does your monitor work with other devices?"
+        },
+        "* monitor": {
+          "0": "Is your monitor turned on at the wall?",
+          "1": "Is your monitor plugged in to the correct port on your computer",
+          "2": "Does your monitor work with other devices?"
+        },
+        "monitor *": {
+          "0": "Is your monitor turned on at the wall?",
+          "1": "Is your monitor plugged in to the correct port on your computer",
+          "2": "Does your monitor work with other devices?"
+        }
+      },
+      "frozen": {
+        "* frozen *": {
+          "0": "Try to open Task Manager by holding down CTRL+ALT+DELETE ",
+          "1": "Hold the power button for 5 seconds to forcibly shut down your pc",
+          "2": "Try to close down as many programs as possible"
+        },
+        "* frozen": {
+          "0": "Try to open Task Manager by holding down CTRL+ALT+DELETE ",
+          "1": "Hold the power button for 5 seconds to forcibly shut down your pc",
+          "2": "Try to close down as many programs as possible"
+        },
+        "frozen *": {
+          "0": "Try to open Task Manager by holding down CTRL+ALT+DELETE ",
+          "1": "Hold the power button for 5 seconds to forcibly shut down your pc",
+          "2": "Try to close down as many programs as possible"
+        }
+      },
+      "slow": {
+        "* slow *": {
+          "0": "Try freeing up some memory on your device",
+          "1": "There could be a virus on your device, try using a trusted anti-virus software.",
+          "2": "Reduce the number of programs you have open at one time"
+        },
+        "* slow": {
+          "0": "Try freeing up some memory on your device",
+          "1": "There could be a virus on your device, try using a trusted anti-virus software.",
+          "2": "Reduce the number of programs you have open at one time"
+        },
+        "slow *": {
+          "0": "Try freeing up some memory on your device",
+          "1": "There could be a virus on your device, try using a trusted anti-virus software.",
+          "2": "Reduce the number of programs you have open at one time"
+        }
+      },
+      "sorry": {
+        "sorry": {
+          "0": "No worries!",
+          "1": "Don't worry about it!",
+          "2": "It's fine"
+        }
+      },
+      "when": {
+        "when will *": {
+          "0": "I'm not too sure",
+          "1": "I can't confirm right now"
+        },
+        "when *": {
+          "0": "how often does this happen",
+          "1": "has that happened today"
+        },
+        "when": {
+          "0": "it's a matter of time"
+        }
+      },
+      "if": {
+        "* if *": {
+          "0": "do you think it's likely that this is causing you problems",
+          "1": "is this the main issue"
+        },
+        "if *": {
+          "0": "do you think it's likely that this is causing you problems",
+          "1": "is this the main issue"
+        }
+      },
+      "how": {
+        "how": {
+          "0": "this could be down to many things"
+        },
+        "how long *": {
+          "0": "i am not sure right now, sorry"
+        },
+        "how  *": {
+          "0": "this could be down to many things",
+          "1": "that's a good question, I'll need to ask some more questions."
+        }
+      },
+      "certainly": {
+        "* certainly *": {
+          "0": "are you sure?"
+        }
+      },
+      "feel": {
+        "i feel *": {
+          "0": "why do you feel 0",
+          "1": "you might be right",
+          "2": "i do not agree i'm afraid"
+        }
+      },
+      "perhaps": {
+        "perhaps *": {
+          "0": "yes this could be a possibility",
+          "1": "I'm afraid I'm not too sure",
+          "2": "you could be right"
+        }
+      },
+      "maybe": {
+        "maybe *": {
+          "0": "yes this could be a possibility",
+          "1": "I'm afraid I'm not too sure",
+          "2": "you could be right"
+        }
+      },
+      "hello": {
+        "hello": {
+          "0": "hello! How do you do. Please state your problem."
+        }
+      },
+      "computer": {
+        "computer": {
+          "0": "My name is Joseph.",
+          "1": "Can you be more specific please.",
+          "2": "Joseph's my name and IT Support's the game"
+        },
+        "computer *": {
+          "0": "can you be more specific than 'computer' please",
+          "1": "do other people use this machine",
+          "2": "is this your main problem"
+        },
+        "* computer *": {
+          "0": "can you be more specific than 'computer' please",
+          "1": "do other people use this machine",
+          "2": "is this your main problem"
+        }
+      },
+      "are": {
+        "are you *": {
+          "0": "do you think I am 0",
+          "1": "why are you interested if i am *"
+        },
+        "* are *": {
+          "0": "should 0 not be 1",
+          "1": "would you like if 0 is not 1",
+          "2": "perhaps they are 1"
+        }
+      },
+      "my": {
+        "* my *": {
+          "0": "why are you concerned over 1"
+        },
+        "my * does *": {
+          "0": "is this the main problem you're having?",
+          "1": "have you experienced this before?",
+          "2": "how long have you had your 0 ?",
+          "3": "is your 0 the only device you have?",
+          "4": "is your 0 a shared device",
+          "5": "what brand is your 0 ?"
+        },
+        "my * is *": {
+          "0": "is this the main problem you're having?",
+          "1": "have you experienced this before?",
+          "2": "how long have you had your 0 ?",
+          "3": "is your 0 the only device you have?",
+          "4": "is your 0 a shared device?",
+          "5": "what brand is your 0 ?"
+        },
+        "my * will *": {
+          "0": "is this the main problem you're having",
+          "1": "have you experienced this before",
+          "2": "how long have you had your 0",
+          "3": "is your 0 the only device you have",
+          "4": "is your 0 a shared device",
+          "5": "what brand is your 0"
+        }
+      },
+      "was": {
+        "was *": {
+          "0": "is 0 the only problem",
+          "1": "is this now not the case"
+        },
+        "* was *": {
+          "0": "has 1 happened before",
+          "1": "is this now not the case"
+        }
+      },
+      "i": {
+        "i want *": {
+          "0": "do you have a budget in mind for 0",
+          "1": "what timescale are you expecting for 0",
+          "2": "is this the only thing you want",
+          "3": "i should be able to help with that"
+        },
+        "i cannot *": {
+          "0": "why can you not 0",
+          "1": "have you tried",
+          "2": "perhaps you could 0 now"
+        },
+        "i can not *": {
+          "0": "why can you not 0",
+          "1": "have you tried",
+          "2": "perhaps you could 0 now"
+        },
+        "i need *": {
+          "0": "do you have a budget in mind for 0",
+          "1": "what timescale are you expecting for 0",
+          "2": "is this the only thing you need",
+          "3": "i should be able to help with that"
+        },
+        "i like *": {
+          "0": "why do you like 0"
+        },
+        "i do not *": {
+          "0": "why do you not 0",
+          "1": "what's stopping you from 0",
+          "2": "why cant you 0"
+        },
+        "i feel *": {
+          "0": "how often do you feel 0",
+          "1": "why do you feel this way"
+        },
+        "i am *": {
+          "0": "what does this have to do with your problem",
+          "1": "how can i help you with this"
+        },
+        "i *": {
+          "0": "you say you 0 ? how does this relate to your problem?"
+        },
+        "* i *": {
+          "0": "you say you 0 ? how does this relate to your problem?"
+        }
+      },
+      "believe": {
+        "* believe *": {
+          "0": "do you really think 0",
+          "1": "are you sure",
+          "2": "is it because you believe 0 that you came to me"
+        }
+      },
+      "think": {
+        "* do not think *": {
+          "0": "why don't you think 1",
+          "1": "are you sure",
+          "2": "is it because you do not think 1 that you came to me"
+        },
+        "* think *": {
+          "0": "do you really think 1",
+          "1": "are you sure",
+          "2": "is it because you believe 0 that you came to me"
+        },
+        "think *": {
+          "0": "I cannot imagine 0"
+        },
+        "think": {
+          "0": "I can only imagine"
+        }
+      },
+      "yes": {
+        "yes": {
+          "0": "Are you sure?",
+          "1": "You seem to be quite positive",
+          "2": "I see. Please tell me more.",
+          "3": "I understand. Please tell me more."
+        },
+        "yes *": {
+          "0": "Are you sure?",
+          "1": "You seem to be quite positive",
+          "2": "I see. Please tell me more.",
+          "3": "I understand. Please tell me more."
+        }
+      },
+      "no": {
+        "no": {
+          "0": "Are you sure?",
+          "1": "You seem to be quite negative",
+          "2": "I see. Please tell me more.",
+          "3": "I understand. Please tell me more."
+        },
+        "no *": {
+          "0": "Are you sure?",
+          "1": "You seem to be quite negative",
+          "2": "I see. Please tell me more.",
+          "3": "I understand. Please tell me more."
+        }
+      },
+      "it": {
+        "it is *": {
+          "0": "How would you feel if it was not 0 ?",
+          "1": "Is it always 0 ?",
+          "2": "When was it last not 0 ?"
+        },
+        "it is": {
+          "0": "I see. Please tell me more.",
+          "1": "I understand. Please tell me more."
+        }
+      },
+      "does": {
+        "* does *": {
+          "0": "Has this always been the case?",
+          "1": "Please give me some more information on the device",
+          "2": "When was the last time it did not 1 ?"
+        },
+        "* does not *": {
+          "0": "Has this always been the case?",
+          "1": "Please give me some more information on the device",
+          "2": "When was the last time it did 1 ?"
+        }
+      },
+      "broken": {
+        "* is broken": {
+          "0": "How long have you had 0 ?",
+          "1": "Please give me some more information on the device",
+          "2": "What caused it to break ?"
+        }
+      },
+      "thanks": {
+        "thanks": {
+          "0": "Anytime!",
+          "1": "It's a pleasure!",
+          "2": "No problem!"
+        },
+        "thanks *": {
+          "0": "Anytime!",
+          "1": "It's a pleasure!",
+          "2": "No problem!"
+        }
+      },
+        "thank": {
+          "thank *": {
+            "0": "Anytime!",
+            "1": "It's a pleasure!",
+            "2": "No problem!"
+          }
+        }
+      },
+  {
+    "0": "It's always worth turning it off and on again!",
+    "1": "What is the result of the problem? Is your device frozen/ slow etc?",
+    "2": "I just need a bit more information about your device and the problems you're having",
+    "3": "I'm not sure if I can help with this problem, try giving me more information."
+  }
+]

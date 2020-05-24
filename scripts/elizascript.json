@@ -1,0 +1,345 @@
+[
+  {
+    "Initial Sentence": "Hello! I'm Eliza, what's on your mind?"
+  },
+  {
+    "sorry": {
+      "sorry": {
+        "0": "Please don't apologise",
+        "1": "What feelings do you have when you apologise",
+        "2": "Apologies are not required"
+      },
+      "* sorry": {
+        "0": "Please don't apologise",
+        "1": "What feelings do you have when you apologise",
+        "2": "Apologies are not required"
+      },
+      "sorry *": {
+        "0": "Please don't apologise",
+        "1": "What feelings do you have when you apologise",
+        "2": "Apologies are not required"
+      },
+      "* sorry *": {
+        "0": "Please don't apologise",
+        "1": "What feelings do you have when you apologise",
+        "2": "Apologies are not required"
+      }
+    },
+    "remember": {
+      "i remember *": {
+        "0": "do you often think of 0",
+        "1": "does thinking of 0 bring anything else to mind",
+        "2": "why do you remember 0 just now"
+      },
+      "do you remember *": {
+        "0": "did you think I would forget 0",
+        "1": "would it upset you if i had forgotten 0",
+        "2": "what is the connection between me and 0"
+      }
+    },
+    "if": {
+      "* if *": {
+        "0": "do you think it's likely that 1",
+        "1": "do you wish that 1"
+      }
+    },
+    "dreamt": {
+      "i dreamt of *": {
+        "0": "what do you think made you dream of 0",
+        "1": "why did you dream of 0",
+        "2": "have you dreamt of 0 before"
+      },
+      "dreamt": {
+        "0": "do you dream often",
+        "1": "who appears in your dreams",
+        "2": "what about this links to your problem"
+      }
+    },
+    "dream": {
+      "i dream *": {
+        "0": "why do you dream 0"
+      }
+    },
+    "how": {
+      "how": {
+        "0": "What do you think could be the answer?",
+        "1": "What do you want the answer to be?"
+      },
+      "how *": {
+        "0": "What do you think could be the answer?",
+        "1": "What do you want the answer to be?"
+      }
+    },
+    "when": {
+      "when": {
+        "0": "it's a matter of time"
+      }
+    },
+    "certainly": {
+      "* certainly *": {
+        "0": "are you sure?"
+      }
+    },
+    "feel": {
+      "i feel *": {
+        "0": "why do you feel 0",
+        "1": "do you often feel 0",
+        "2": "has something happened to make you feel 0"
+      },
+      "we feel *": {
+        "0": "why do you all feel 0",
+        "1": "has something happened to make you feel 0"
+      }
+    },
+    "feels": {
+      "she feels *": {
+        "0": "are you sure?"
+      },
+      "he feels *": {
+        "0": "are you sure?"
+      }
+    },
+    "perhaps": {
+      "perhaps *": {
+        "0": "you don't seem quite certain",
+        "1": "can't you be more positive",
+        "2": "don't you know?"
+      }
+    },
+    "maybe": {
+      "maybe *": {
+        "0": "you don't seem quite certain",
+        "1": "can't you be more positive",
+        "2": "don't you know?"
+      }
+    },
+    "hello": {
+      "hello": {
+        "0": "hello! How do you do. Please state your problem."
+      }
+    },
+    "computer": {
+      "computer": {
+        "0": "My name is Eliza"
+      },
+      "computer *": {
+        "0": "do computers worry you",
+        "1": "why do you mention computers",
+        "2": "what do machines have to do with your problem"
+      }
+    },
+    "am": {
+      "am": {
+        "0": "why do you say am"
+      }
+    },
+    "are": {
+      "are you *": {
+        "0": "do you think I am 0",
+        "1": "why are interested if i am *"
+      },
+      "* are *": {
+        "0": "did you think 0 might not be 1",
+        "1": "would you like if 0 is not 1",
+        "2": "perhaps they are 1"
+      }
+    },
+    "my": {
+      "* my *": {
+        "0": "why are you concerned over 1"
+      }
+    },
+    "was": {
+      "was *": {
+        "0": "are you worried about 0",
+        "1": "what would it mean if you were 0"
+      },
+      "* was *": {
+        "0": "are you worried about 1",
+        "1": "what would it mean if you were 1"
+      }
+    },
+    "i": {
+      "i am sad": {
+        "0": "i am sorry to hear that you are feeling this way, can you explain what made you feel like this?",
+        "1": "i am sure it isn't pleasnant to feel this way, what made you feel like this?",
+        "2": "what can i do to make you feel better?"
+      },
+      "i am depressed": {
+        "0": "i am sorry to hear that you are feeling this way, can you explain what made you feel like this?",
+        "1": "i am sure it isn't pleasnant to feel this way, what made you feel like this?",
+        "2": "what can i do to make you feel better?"
+      },
+      "i am sick": {
+        "0": "i am sorry to hear that you are feeling this way, can you explain what made you feel like this?",
+        "1": "i am sure it isn't pleasnant to feel this way, what made you feel like this?",
+        "2": "what can i do to make you feel better?"
+      },
+      "i am happy": {
+        "0": "how have i helped you to feel like this",
+        "1": "can you explain why you feel like this"
+      },
+      "i am better": {
+        "0": "how have i helped you to feel like this",
+        "1": "can you explain why you feel like this"
+      },
+      "i am glad": {
+        "0": "how have i helped you to feel like this",
+        "1": "can you explain why you feel like this"
+      },
+      "i am *": {
+        "0": "is it because you are 0 that you came to me",
+        "1": "why are you 0",
+        "2": "do you want to be 0",
+        "3": "who else knows you are 0",
+        "4": "tell me more about such feelings"
+      },
+      "i want *": {
+        "0": "why do you want 0",
+        "1": "what would it mean if you got 0",
+        "2": "suppose you got 0 soon",
+        "3": "what if you never got 0",
+        "4": "what would getting 0 mean to you",
+        "5": "what does wanting 0 have to do with this discussion"
+      },
+      "i cannot *": {
+        "0": "why can you not 0",
+        "1": "have you tried",
+        "2": "perhaps you could 0 now",
+        "3": "do you really want to be able to 0"
+      },
+      "i can not *": {
+        "0": "why can you not 0",
+        "1": "have you tried",
+        "2": "perhaps you could 0 now",
+        "3": "do you really want to be able to 0"
+      },
+      "i need *": {
+        "0": "why do you want 0",
+        "1": "what would it mean if you got 0",
+        "2": "suppose you got 0 soon",
+        "3": "what if you never got 0",
+        "4": "what would getting 0 mean to you",
+        "5": "what does wanting 0 have to do with this discussion"
+      },
+      "i like *": {
+        "0": "why do you like 0",
+        "1": "how does 0 make you feel",
+        "2": "what makes you like 0"
+      },
+      "i do not *": {
+        "0": "why do you not 0",
+        "1": "what would it mean if did 0",
+        "2": "suppose you did 0",
+        "3": "does that trouble you",
+        "4": "do you wish to be able to 0",
+        "5": "why cant you 0",
+        "6": "what's stopping you from 0"
+      },
+      "i feel *": {
+        "0": "tell me more about such feelings",
+        "1": "what does feeling 0 remind you of",
+        "2": "do you enjoy feeling 0",
+        "3": "how often do you feel 0"
+      },
+      "i * you": {
+        "0": "perhaps in your fantasy we 0 each other",
+        "1": "do you wish to 0 me",
+        "2": "you seem to need to 0 me",
+        "3": "do you 0 anyone else"
+      },
+      "i *": {
+        "0": "you say you 0 ?"
+      },
+      "* i *": {
+        "0": "you say you 1 ?"
+      }
+    },
+    "believe": {
+      "* believe *": {
+        "0": "do you really think 1",
+        "1": "are you sure",
+        "2": "is it because you believe 1 that you came to me"
+      }
+    },
+    "think": {
+      "* do not think *": {
+        "0": "why don't you think 1",
+        "1": "are you sure",
+        "2": "is it because you do not think 1 that you came to me"
+      },
+      "* think *": {
+        "0": "do you really think 1",
+        "1": "are you sure",
+        "2": "is it because you believe 0 that you came to me"
+      },
+      "think *": {
+        "0": "I cannot imagine 0"
+      },
+      "think": {
+        "0": "I can only imagine"
+      }
+    },
+    "yes": {
+      "yes": {
+        "0": "Are you sure?",
+        "1": "You seem to be quite positive",
+        "2": "I see",
+        "3": "I understand"
+      },
+      "yes *": {
+        "0": "Are you sure?",
+        "1": "You seem to be quite positive",
+        "2": "I see",
+        "3": "I understand"
+      }
+    },
+    "no": {
+      "no": {
+        "0": "Are you sure?",
+        "1": "You seem to be quite negative",
+        "2": "I see",
+        "3": "I understand"
+      },
+      "no *": {
+        "0": "Are you sure?",
+        "1": "You seem to be quite negative",
+        "2": "I see",
+        "3": "I understand"
+      }
+    },
+    "it": {
+      "it is *": {
+        "0": "How would you feel if it was not 0 ?",
+        "1": "Is it always 0 ?",
+        "2": "When was it last not 0 ?"
+      },
+      "it is": {
+        "0": "I see",
+        "1": "I understand"
+      }
+    },
+    "thanks": {
+      "thanks": {
+        "0": "Anytime!",
+        "1": "It's a pleasure!",
+        "2": "No problem!"
+      },
+      "thanks *": {
+        "0": "Anytime!",
+        "1": "It's a pleasure!",
+        "2": "No problem!"
+      }
+    },
+    "thank": {
+      "thank *": {
+        "0": "Anytime!",
+        "1": "It's a pleasure!",
+        "2": "No problem!"
+      }
+    }
+  },
+  {
+    "0": "Please understand that I may not always be able to give a full response however please go on to tell me more."
+  }
+]
